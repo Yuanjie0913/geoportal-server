@@ -13,6 +13,14 @@
  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  See the License for the specific language governing permissions and
  limitations under the License.
+ 
+ The NOAA/National Oceanographic Data Center has contributed to this work. 
+ The items added to the xslt files are based on the NODC working ISO19115-2 
+ metadata template. You may modify the code for any reason, and will likely 
+ need to adapt it based on your data.  For example, you can add your referenced 
+ metadata fields for the user to acquire through Geoportal Server's CSW brief 
+ or summary profiles. If you observe any problems or have any questions, please 
+ contact NODC customer service NODC.Webmaster@noaa.gov. We will be happy to help.
 -->
 <xsl:stylesheet version="1.0" 
    xmlns:xsl="http://www.w3.org/1999/XSL/Transform"    
